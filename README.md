@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shahd Khartabil</h1>
 <h3 align="center">a passionate recent graduate from Applied Computer Science program at Dalhousie University</h3>
 
-- 🔭 I’m currently working on [cake order application](https://github.com/shahdk33/cake-app/tree/main/my-app)
+- 🔭 I’m currently working on **creating an Android program for a local cafe**
 
 - 👯 I’m looking to **grow my skills in front-end development and backend development through my own projects on github, and freelancing**
 
-- 🌱 I’m currently learning **how to work with react native applications for android, and learning python**
+- 🌱 I’m currently learning **how to work with React Native applications for Android, and learning python**
 
 - 📫 How to reach me **shahdkhartabil2@gmail.com**
 
