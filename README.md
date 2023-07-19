@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to **grow my skills in front-end development and backend development through my own projects on github, and freelancing**
 
-- 🌱 I’m currently learning **how to work with React Native applications for Android, and Machine learning algorithms in Python **
+- 🌱 I’m currently learning **how to work with React Native applications for Android, and Machine learning algorithms in Python**
 
 - 📫 How to reach me **shahdkhartabil2@gmail.com**
 
