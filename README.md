@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shahd Khartabil</h1>
-<h3 align="center">a passionate recent graduate from Applied Computer Science program at Dalhousie University</h3>
+<h3 align="center">Recent graduate from Applied Computer Science program at Dalhousie University</h3>
 
 - 🔭 I’m currently working on **creating a React Native Android application for a local cafe to help automate their cake ordering process**
 
