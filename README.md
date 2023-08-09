@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **making a React Native Android application** for a local cafe to help automate their cake ordering process and **developing a website** to showcase my portfolio 
 
-- 👯 I’m looking to **grow my skills in front-end development and backend development through my own projects on github, and freelancing**
+- 👯 I’m seeking a position to **grow my skills in front-end development and backend development**. I am practicing coding through my own projects on github, and freelancing
 
-- 🌱 I’m currently learning **how to work with React Native applications for Android, and Machine learning algorithms in Python**
+- 🌱 I’m currently learning **how to make React Native mobile applications with Expo, and Machine learning algorithms in Python**
 
 - 📫 How to reach me **shahdkhartabil2@gmail.com**
 
