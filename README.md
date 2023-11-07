@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Shahd Khartabil</h1>
-<h3 align="center">Recent graduate from Applied Computer Science program at Dalhousie University</h3>
+<h3 align="center">Graduate from Applied Computer Science program at Dalhousie University</h3>
 
-- 🔭 I’m currently working on **making a React Native Android application** for a local cafe to help automate their cake ordering process and **developing a website** to showcase my portfolio 
+- 🔭 I’m currently working on **making a React Web Application** "Choose Your Own Adventure" educational game about recent and historical events
 
-- 👯 I’m seeking a position to **grow my skills in front-end development and backend development**. I am practicing coding through my own projects on github, and freelancing
-
-- 🌱 I’m currently learning **how to make React Native mobile applications with Expo, and Machine learning algorithms in Python**
+- 👯 I’m seeking a position to **grow my skills in front-end development and backend development**. I am practicing coding through my own projects on github
 
 - 📫 How to reach me **shahdkhartabil2@gmail.com**
 
