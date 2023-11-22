@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shahd Khartabil</h1>
 <h3 align="center">Graduate from Applied Computer Science program at Dalhousie University</h3>
 
-- 🔭 I’m currently working on **making a React Web Application** "Choose Your Own Adventure" educational game about recent and historical events
+- 🔭 I’m currently working on **making a React Web Application** "Choose Your Own Adventure" text-based educational game
 
 - 👯 I’m seeking a position to **grow my skills in front-end development and backend development**. I am practicing coding through my own projects on github
 
