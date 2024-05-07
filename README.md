@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Shahd Khartabil</h1>
 <h3 align="center">Graduate from Applied Computer Science program at Dalhousie University</h3>
 
-- 🔭 I’m currently working on **making a React Web Application** "Choose Your Own Adventure" text-based educational game
+I’m seeking a position to **grow my skills in front-end development and backend development**. I am practicing coding through my Internship and EurekaTechnologies Inc. as a React Native app developer
 
-- 👯 I’m seeking a position to **grow my skills in front-end development and backend development**. I am practicing coding through my own projects on github
-
-- 📫 How to reach me **shahdkhartabil2@gmail.com**
+How to reach me **shahdkhartabil2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
