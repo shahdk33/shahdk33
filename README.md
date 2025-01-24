@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Shahd Khartabil</h1>
-<h3 align="center">Graduate from Applied Computer Science program at Dalhousie University</h3>
+<h3 align="center">Software Developer</h3>
 
-I’m seeking a position to **grow my skills in front-end development and backend development**. Currently working at EurekaTechnologies Inc. as a React Native app developer
+I’m seeking a position to **grow my skills in front-end development and backend development**. Currently working at EurekaTechnologies Inc. as a Software developer
 
 How to reach me **shahdkhartabil2@gmail.com**
 
